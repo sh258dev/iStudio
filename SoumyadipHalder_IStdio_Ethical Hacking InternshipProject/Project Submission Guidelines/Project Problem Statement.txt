@@ -1,0 +1,27 @@
+ETHICAL HACKING INTERNSHIP  
+https://docs.google.com/document/d/1R3R7ZJzXc8I24KveCzYZjgvaZUfL5iNj1s0L39kwqrg/edit?usp=sharing
+Project Problem Statement
+
+Every task in this problem is linked with each other so you have to make sure you follow every task in the given serial order. If you skip any of the tasks you can’t follow up the other. 
+
+Task 1:
+In Session 22 we introduced you to portswigger labs. Portswigger is a website which has so many vulnerable labs which helps you to learn about other vulnerabilities in real life. You can visit Portswigger labs at https://portswigger.net/ 
+
+So the exact task for you now is there are several XSS labs on this website https://portswigger.net/web-security/all-labs. You can just choose any 5 of them and solve it. We are leaving the choice up to you.
+
+Every lab on the website has a hint section which you can use to solve the labs if you are stuck somewhere. Watch me solve one lab to give you a demo.
+
+
+After solving you should see something like “Solved Status” on the top of the lab. That status is necessary to pass the task out.
+
+If you need any more help solving labs, you can use Google to find out a solution video available on Youtube. 
+
+Task 2:
+In this task you are completely free. http://testasp.vulnweb.com/  - This is the website. Explore the website and try to find vulnerabilities in the website and report it to us. You will be evaluated on your methods and the report you submit. Don’t worry about evaluation, just report the vulnerabilities as you feel comfortable.
+
+Make sure your report matches this >> #751870 Reflected XSS in pubg.com (hackerone.com) 
+
+You are expected to include the following in the final Report that you have to submit. 
+1) Proper Steps 
+2) ScreenShot 
+3) Video
